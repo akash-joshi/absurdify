@@ -1,6 +1,6 @@
 {
   "name": "absurdify",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "npm module to aBsuRdiFy input text",
   "main": "server.js",
   "scripts": {
