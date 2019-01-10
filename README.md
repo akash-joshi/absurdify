@@ -12,7 +12,7 @@ npm module to absurdify input text.
 Your input will be the text to absurdify
 ```javascript
 const absurd=require('absurdify')
-console.log('Hello, this is some random text')
+console.log(absurd('Hello, this is some random text'))
 ```
 
 ## Output
