@@ -6,7 +6,7 @@ npm module to absurdify input text.
 
 ## Installation
 
-    $ npm i neural-color-picker --save
+    $ npm add absurdify
 
 ## Usage
 Your input will be the text to absurdify
